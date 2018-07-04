@@ -17,8 +17,8 @@ After installing open Golem-and-pumpkin project folder -> Assets->scenes->Gamepl
 
 Open it "It will take some time to import the assets"
 
-Now you and click on play icon to run the game.
-If you want to make an .exe of it..go in built project option and you can create .exe for android, ios,windows.
+Now you can click on play icon to run the game.
+If you want to make an .exe of it,go to built project option and you can create .exe for android, ios,windows.
 
 
 **Thanks a lot for reading**
